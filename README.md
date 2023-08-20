@@ -1,18 +1,17 @@
-### Oii! Eu vou Vinicius Yeh
-- 🔭 Pretendo trabalhar com FrontEnd.
-- 🌱 Estou estudando: HTML, CSS, JavaScript, Java e Interfaces.
+<h1 align="center">Oii👋, Eu sou Vinicius Yeh</h1>
+<h3 align="center">Pretendo me tornar um FrontEnd</h3>
+- 🌱 Eu estou estudando: HTML, CSS, Java, JavaScript e Interfaces.<br>
+- 📫 How to reach me: viniciussoaresyeh@gmail.com.<br>
 - 😄 Pronomes: ele/dele.
-##
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Yeh-FrontDev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Yeh-FrontDev&layout=compact&theme=radical)
 ##
-<div id="icons-languages"><br>
-  <img align="center" alt="Yeh-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Yeh-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Yeh-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="Yeh-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
+<h3 align="left">Contate-me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vinicius soares yeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius soares yeh" height="50" width="60" /></a>
+<a href="https://instagram.com/vinicius_yeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinicius_yeh" height="50" width="60" /></a>
+</p>
 
-<div><br>
-  <a href="https://www.linkedin.com/in/vinicius-soares-yeh-b34178269/" targer="_blank" ><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" /></a>
-</div>
+
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> </p>
